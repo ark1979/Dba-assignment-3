@@ -24,6 +24,7 @@ Output:
  {'_id': 'what_bugs_u', 'tweet_count': 246},
  {'_id': 'Karen230683', 'tweet_count': 238},
  {'_id': 'DarkPiano', 'tweet_count': 236}]
+
 Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)?
 Most grumpy
 [
